@@ -1,0 +1,11 @@
+{
+    "json.schemas": [],
+    "launch": {
+
+        "editor.autoClosingBrackets": false,
+        "editor.suggestOnTriggerCharacters": false,
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.parameterHints.enabled": true,
+    "editor.parameterHints.cycle": true
+}
